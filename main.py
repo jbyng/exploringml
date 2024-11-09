@@ -6,7 +6,7 @@ import streamlit as st
 
 
 #demo video 
-DEMO_VIDEO = 'testvid3.mp4'
+DEMO_VIDEO = 'testvid.mp4'
 
 
  
